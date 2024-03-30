@@ -30,3 +30,6 @@ model.fit(train_images, train_labels, epochs=5, batch_size=64)
 # Evaluar el modelo con el conjunto de datos de prueba
 test_loss, test_acc = model.evaluate(test_images, test_labels)
 print('Accuracy:', test_acc)
+
+
+hola cambio en git jsjsj
